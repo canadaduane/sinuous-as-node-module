@@ -1,0 +1,12 @@
+{
+  "name": "sinuous-as-module",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "sinuous": "^0.30.0"
+  }
+}
